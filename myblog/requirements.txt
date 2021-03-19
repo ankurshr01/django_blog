@@ -22,4 +22,4 @@ django-simple-email-confirmation==0.60
 django-storages==1.6.5
 django-verified-email-field==1.5.1
 djangocms-installer==1.2.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
