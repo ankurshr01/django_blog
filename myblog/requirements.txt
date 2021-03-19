@@ -7,7 +7,7 @@ async-generator==1.10
 attrs==17.4.0
 Automat==0.6.0
 Babel==2.7.0
-Django==3.0.3
+Django==3.1.6
 django-ajax-selects==1.7.1
 django-allauth==0.22.0
 django-autocomplete-light==3.4.1
